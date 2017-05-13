@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Course Notes
 
-You can use the [editor on GitHub](https://github.com/justinyangusa/notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Notes for classes taken at the University of Illinois at Urbana-Champaign
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ECE 210
+#### Analog Signal Processing
 
-### Markdown
+Spring 2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[download notes](ece210.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justinyangusa/notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://y4ng.com" property="cc:attributionName" rel="cc:attributionURL">Justin Yang</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://y4ng.com/notes" rel="dct:source">https://y4ng.com/notes</a>.
